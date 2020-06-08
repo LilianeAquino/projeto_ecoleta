@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="182" alt="Ecoleta" src="/img/home.png">
+  <img width="300" alt="Ecoleta" src="/img/home.png">
 </h1>
 
 ## ♻ Ecoleta | Next Level Week #1
