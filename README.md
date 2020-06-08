@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="600" alt="Ecoleta" src="/img/home.png">
+  <img width="650" alt="Ecoleta" src="/img/home.png">
 </h1>
 
 ## ♻ Ecoleta | Next Level Week #1
@@ -9,7 +9,6 @@ Nessa aplicação é possível registrar pontos de coleta, tipos de materiais co
 ## 🚀 Index
 - ⚙ [Tecnologies](#-tecnologies)
 - 💻 [How to run](#-how-to-run)
-- 📷 [Previews](#-previews)
 
 ---
 
