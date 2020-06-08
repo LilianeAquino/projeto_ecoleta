@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img width="300" alt="Ecoleta" src="/img/home.png">
+  <img width="600" alt="Ecoleta" src="/img/home.png">
 </h1>
 
 ## ♻ Ecoleta | Next Level Week #1
 
-Nessa aplicação é possível registrar pontos de coleta, tipos de materiais coletados pelo estabelecimento e mostra os pontos de coleta no mapa.
+Nessa aplicação é possível registrar pontos de coleta, tipos de materiais coletados pelo estabelecimento e visualizar os pontos de coleta no mapa.
 
 ## 🚀 Index
 - ⚙ [Tecnologies](#-tecnologies)
