@@ -21,6 +21,7 @@ interface Point {
   id: number;
   name: string;
   image: string;
+  image_url: string;
   latitude: number;
   longitude: number;
 }
@@ -133,7 +134,7 @@ const Points = () => {
                     }}
                   >
                     <View style={styles.mapMarkerContainer}>
-                      <Image style={styles.mapMarkerImage} source={{ uri: point.image }} />
+                      <Image style={styles.mapMarkerImage} source={{ uri: point.image_url }} />
                       <Text style={styles.mapMarkerTitle}>{point.name.split(' ')[0]}</Text>
                     </View>
                   </Marker>
@@ -149,7 +150,7 @@ const Points = () => {
             contentContainerStyle={{ paddingHorizontal: 20 }}
           >
             {items.map(item => (
-              <TouchableOpacity
+               <TouchableOpacity
                 key={String(item.id)}
                 style={[styles.item, selectedItems.includes(item.id) ? styles.selectedItem : {}]}
                 onPress={() => handleSelectItem(item.id)}
